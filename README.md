@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## A full stack developer based in London
 
-- 🔭 I’m currently working on our website www.fairpointnews.com and the new iteration of GCSE.com
+- 🔭 I’m currently working on our website www.fairpointnews.com and the new iteration of www.GCSE.com
 - 🌱 I’m currently learning Redux, Sass and TypeScript
 - 👯 I’m looking to collaborate on anything I can get my hands on!
 - 💬 Ask me about anything!!
