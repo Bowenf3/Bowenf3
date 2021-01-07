@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## A full stack developer based in London
 
-- 🔭 I’m currently working on our website www.fairpointnews.com
+- 🔭 I’m currently working on our website www.fairpointnews.com and the new iteration of GCSE.com
 - 🌱 I’m currently learning Redux, Sass and TypeScript
 - 👯 I’m looking to collaborate on anything I can get my hands on!
 - 💬 Ask me about anything!!
@@ -22,4 +22,7 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>  
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href=" https://www.gatsbyjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/gatsby/gatsby-original.svg" alt="Gatsby.js" width="40" height="40"/>
+   </a> 
 </p>
