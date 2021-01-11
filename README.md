@@ -2,7 +2,7 @@
 ## A full stack developer based in London
 
 - 🔭 I’m currently working on our website www.fairpointnews.com and the new iteration of www.GCSE.com
-- 🌱 I’m currently learning Redux, Sass and TypeScript
+- 🌱 I’m currently learning Grahpql, Gatsby and Chakra UI plus Contentful CMS
 - 👯 I’m looking to collaborate on anything I can get my hands on!
 - 💬 Ask me about anything!!
 - 📫 How to reach me: https://www.linkedin.com/in/oliverbowen/
